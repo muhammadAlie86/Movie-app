@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title">title</string>
+    <string name="catalogue_description">catalogue_description</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="rate">Rate</string>
+    <string name="language">Language</string>
+    <string name="description">description</string>
+    <string name="release_date">release date</string>
+    <string name="language_description">language description</string>
+    <string name="rate_description">rate description</string>
+    <string name="poster_description">poster description</string>
+    <string name="backdrop_description">backdrop_description</string>
+    <string name="logo_app">logo_app</string>
+    <string name="image_empty_description">image empty description</string>
+</resources>
